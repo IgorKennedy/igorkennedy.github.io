@@ -1,5 +1,5 @@
-# http://igorkennedy.github.io
-design web de uma informática
+
+
 <!DOCTYPE html>
 <HTML lang="pt-br">
 	 <meta name="viewport" content="widht=device-width, initial-scale=1.0">
